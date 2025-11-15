@@ -1,6 +1,5 @@
-# EXAMEN FINAL 12-DIC-24 TURNO NOCHE
-# REGULAR INCOMPLETO
-## TECNICATURA DE DESPACHO // COMERC SEGUROS // RECURSOS DIGITALES
+# EXAMEN SIMULADOR TURNO INTENSIVO SABADO
+## TECNICATURA DE DESPACHO // HIGIENE&SEGURIDAD // COMERC SEGUROS // RECURSOS DIGITALES
 
 **Para proyecto es necesario tener:**
 * abierto tu usuario de google,
@@ -46,13 +45,13 @@ A Partir de la base de datos que dejo disponible mas adelante.
 
 ## 4. Instrucciones para Desarrollo e Implementación
 **Paso 1:**
-* En Gitub, crea un repositorio llamado **examen_12Dic2024**
+* En Gitub, crea un repositorio llamado **EXAMEN_SIMULADOR_INT_2025**
 
 **Paso 2:**
 * **Solicitar a Claude.ai lo siguiente:**
 
 ```txt
-Podrías preparar en formato Informe de procesador de texto, un plan de marketing digital desarrollado para utilizar google ads, debe tener la estructura de embudo en el proceso de ventas, que no supere las 10 paginas, tenga una tabla con la metrica mas importante y bibliografía utilizada. Además agrega al principio una Portada.
+En rol de writing y especialista en Marketing Digital, podrías preparar en formato Informe de procesador de texto google, un plan de marketing digital desarrollado para utilizar google ads, debe tener la estructura de embudo en el proceso de ventas, que no supere las 5 paginas, tenga una tabla con la metrica mas importante y bibliografía utilizada. Además agrega al principio una Portada.
 ```
 **Paso 3:**
 * Abre el Procesador de texto de google y crea un archivo [[pulsa aquí para abrir el Procesador de Texto](https://docs.google.com/document/u/0/)]
@@ -100,9 +99,8 @@ A Partir de la base de datos que dejo disponible mas adelante.
 * En tu github, abre y edita el README.MD
 * Copia lo siguiente y modifica donde te solicita para que se vean tus archivos generados:
 *  ```txt
-      # EXAMEN FINAL 12-DIC-24 TURNO NOCHE
-      # REGULAR INCOMPLETO
-      ## TECNICATURA DE DESPACHO // COMERC SEGUROS // RECURSOS DIGITALES
+      # EXAMEN SIMULADOR INTENSIVO SABADO 2025
+      ## TECNICATURA DE DESPACHO // HIGIENE&SEGURIDAD // RECURSOS DIGITALES
       
       ## Plan de Marketing digital tilizando la plataformacon Google Ads.
 
@@ -121,4 +119,5 @@ A Partir de la base de datos que dejo disponible mas adelante.
 
       ```
 
- **Paso 7:** Copiar y pegar el link del repositorio Github en la ventana del Examen
+ **Paso 7:** Copiar y pegar el link del repositorio Github en en siguiente formulario
+    * [[Pulsa aquí para completar el formulario](https://forms.gle/jXvCEfsvJa2Bn36G8)]
